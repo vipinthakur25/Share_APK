@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Share APK</string>
+
+    <string name="app_size_b">%1$.2f B</string>
+    <string name="app_size_kb">%1$.2f KB</string>
+    <string name="app_size_mb">%1$.2f MB</string>
+    <string name="app_size_gb">%1$.2f GB</string>
+</resources>
